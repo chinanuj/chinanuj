@@ -140,7 +140,6 @@ const anuj = {
 - I believe there are two types of code: the one that works and the one I wrote
 - My debugging strategy: stare at the screen until the solution appears
 - I name my variables like I name my pets - with great affection and zero consistency
-- I'm still waiting for Stack Overflow to add me as a co-author
 </details>
 
 ## 📊 GitHub Stats
