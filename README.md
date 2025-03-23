@@ -144,9 +144,9 @@ const anuj = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinanuj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFFFF&icon_color=FFC371&custom_title=GitHub%20Stats&text_color=FFFFFF" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chinanuj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5F6D&icon_color=FFC371" alt="Anuj's GitHub stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinanuj&theme=radical&hide_border=true&background=0D1117&stroke=FF5F6D&ring=FF5F6D&fire=FFC371&currStreakLabel=FFC371&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinanuj&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FF5F6D&fire=FFC371&currStreakLabel=FFC371" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -155,7 +155,7 @@ const anuj = {
 
 *Note: Top languages reflect my coding activity on GitHub, not necessarily my overall skill level or proficiency. I'm continuously expanding my tech stack!*
 
-## 🔥 Contribution Graph
+## 🔥 My Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinanuj&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF5F6D&line=FFC371&point=FFFFFF" width="98%" alt="Activity Graph" />
