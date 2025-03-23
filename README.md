@@ -20,7 +20,7 @@
 </div>
 
 ## 👨‍💻 Who am I?
-Just a developer who loves solving problems and sometimes creates new ones. I'm Anuj Chincholikar, currently exploring the vast universe of code one bug at a time. When I'm not staring at error messages, I'm probably thinking about how to make them look prettier.
+Just a developer who loves solving problems and sometimes creates new ones. I am Currently exploring the vast universe of code one bug at a time. When I'm not staring at error messages, I'm probably thinking about how to make them look prettier.
 
 ```javascript
 const anuj = {
