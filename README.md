@@ -144,13 +144,16 @@ const anuj = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinanuj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5F6D&icon_color=FFC371" alt="Anuj's GitHub stats" />
+  <!-- Top of the diamond: GitHub Stats -->
+  <div style="display: flex; justify-content: center; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=chinanuj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5F6D&icon_color=FFC371" alt="Anuj's GitHub stats" />
+  </div>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinanuj&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FF5F6D&fire=FFC371&currStreakLabel=FFC371" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinanuj&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5F6D" alt="Top Languages" />
+  <!-- Middle of the diamond: Streak and Top Languages side by side -->
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinanuj&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FF5F6D&fire=FFC371&currStreakLabel=FFC371" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinanuj&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5F6D" alt="Top Languages" />
+  </div>
 </div>
 
 *Note: Top languages reflect my coding activity on GitHub, not necessarily my overall skill level or proficiency. I'm continuously expanding my tech stack!*
