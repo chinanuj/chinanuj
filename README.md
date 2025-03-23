@@ -8,13 +8,13 @@
     <a href="mailto:b22es018@iitj.ac.in">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="[https://www.linkedin.com/in/anujchincholikar](https://www.linkedin.com/in/anuj-chincholikar-1a6b17224/)">
+    <a href="https://www.linkedin.com/in/anuj-chincholikar-1a6b17224/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/chinanuj">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="[https://leetcode.com/anujchincholikar](https://leetcode.com/u/b22es018/)">
+    <a href="https://leetcode.com/u/b22es018/">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
     </a>
   </div>
