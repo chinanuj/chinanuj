@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=230&section=header&text=Hello,%20I'm%20Anuj&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Building%20digital%20experiences%20one%20line%20at%20a%20time&descSize=20&descAlignY=50&animation=fadeIn)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC371&center=true&vCenter=true&random=false&width=500&lines=;Always+Learning+!!!;" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC371&center=true&vCenter=true&random=false&width=500&lines=Nice+to+meet+you%21%21%21" alt="Typing SVG" />
   <!-- Social Media Links -->
   <div>
     <a href="mailto:b22es018@iitj.ac.in">
