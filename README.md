@@ -13,7 +13,7 @@
     <a href="https://github.com/chinanuj">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://leetcode.com/u/b22es018/">
+    <a href="https://leetcode.com/u/Jck007/">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
     </a>
   </div>
