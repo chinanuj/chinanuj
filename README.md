@@ -25,7 +25,7 @@ Just a developer who loves solving problems and sometimes creates new ones. I am
 ```javascript
 const anuj = {
   location: "IIT Jodhpur",
-  education: "B.Tech (Major in Computer Science",
+  education: "B.Tech (Major in Computer Science)",
   email: "b22es018@iitj.ac.in",
   currentStatus: "Exploring & Learning",
 }
